@@ -1,2 +1,3 @@
-# design-patterns-js
-JavaScript Design Patterns
+# JavaScript Design Patterns
+
+Udacity Course codes
