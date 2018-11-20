@@ -6,7 +6,13 @@
   bottom: 0;
   margin: auto;
   width: 40rem;
+  text-align: center;
 }
-.container h2 {
-    text-align: center;
+.container > div {
+  display: flex;
+}
+.cat-image {
+  width: 20rem;
+  height: 20rem;
+  padding: 0.2rem;
 }
