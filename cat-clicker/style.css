@@ -6,10 +6,9 @@
   bottom: 0;
   margin: auto;
   width: 40rem;
-  text-align: center;
 }
-.container > div {
-  display: flex;
+.container > h2 {
+  text-align: center;
 }
 .cat-image {
   width: 20rem;
